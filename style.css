@@ -1,5 +1,5 @@
 header,section,aside,footer{
-  background:silver;
+  background:#ffff;
 }
 @@media screen and (max-width:768px) {
   header,section,aside,footer{
